@@ -28,7 +28,8 @@ module.exports = function(grunt) {
          },
          compress: {
             files: {
-               'dist/styles/main.min.css':'styles/main.css'
+               'dist/styles/main.min.css':'styles/main.css',
+               'dist/styles/bootstrap.min.css':'bower_components/bootstrap/dist/css/bootstrap.min.css'
             },
             options: {
                lineNumbers: false,

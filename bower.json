@@ -1,0 +1,23 @@
+{
+  "name": "mithril-test",
+  "version": "0.0.0",
+  "authors": [
+    "geoffdavis92 <geoffdavis92@gmail.com>"
+  ],
+  "description": "Test app of Mithril.js",
+  "main": "index.html",
+  "moduleType": [
+    "es6"
+  ],
+  "keywords": [
+    "mithril",
+    "js",
+    "es6",
+    "test"
+  ],
+  "license": "MIT",
+  "homepage": "geoffdavis92.github.io/mithril-test",
+  "dependencies": {
+    "mithril": "~0.2.0"
+  }
+}
